@@ -1,0 +1,191 @@
+ .move_day_of_42 {
+  height: 70%;
+  position: relative;
+  top: 15px;
+}
+
+.box1 {
+  border-radius: 15px;
+  background-color: rgb(144,144,144);
+  margin-left: 15%;
+  width: 70%;
+  height: 15%;
+  box-shadow: 5px 10px;
+  position: absolute;
+}
+
+.move_eye_glass {
+  width: 15%;
+  height: 15%;
+  position: relative;
+  float: right;
+  right: 16%;
+}
+
+.reload {
+  width: 1.5%;
+  height: 1.5%;
+  position: relative;
+  float: right;
+  top: 10px;
+  left: 6px;
+}
+
+.close {
+  width: 1.5%;
+  height: 2%;
+  position: absolute;
+  top: 12%;
+  left: 83.5%;
+}
+
+.cluster {
+    position: absolute;
+    left: 2%;
+    top: 3%;
+    width: 96%;
+    height: 94.5%;
+}
+
+.box2 {
+  border-radius: 15px;
+  background-color: rgb(144,144,144);
+  top: 18%;
+  right: 24.5%;
+  width: 50%;
+  height: 58%;
+  box-shadow: 5px 10px;
+  position: absolute;
+}
+
+.box3 {
+  border-radius: 15px;
+  background-color: rgb(144,144,144);
+  width: 8%;
+  height: 45%;
+  box-shadow: 5px 10px;
+  position: absolute;
+}
+
+.box4 {
+  border-radius: 15px;
+  background-color: green;
+  width: 30%;
+  height: 16%;
+  box-shadow: 5px 10px;
+  position: absolute;
+}
+
+.comp {
+  border-radius: 15px;
+  background-color: transparent;
+  width:15%;
+  height: 16%;
+  position: absolute;
+  right: 23%;
+  top: 50%;
+}
+
+.chair {
+  border-radius: 15px;
+  background-color: transparent;
+  width:15%;
+  height: 30%;
+  position: absolute;
+  right: 30%;
+  top: 65%;
+}
+
+.red_border {
+   border: 3px solid red;
+}
+
+.shadow {
+    text-shadow: 2px 2px #ff0000;
+}
+
+#move_box3_left {
+  position: absolute;
+  top: 18%;
+  right: 75.9%;
+}
+
+#move_box3_right {
+  position: absolute;
+  top: 18%;
+  right: 15%;
+}
+
+#move_box4 {
+  position: absolute;
+  top: 70%;
+  right: 60%;
+}
+
+#green_arrow {
+  positon: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 13%;
+}
+
+#fist_thing {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+    margin-top: 4%;
+}
+
+#oeil {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+    margin-top: 9%;
+}
+
+#outil {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 9%;
+}
+
+#chat-icon {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 9%;
+}
+
+#book {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 9%;
+}
+
+#towel {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 9%;
+}
+
+#brick {
+  position: relative;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 9%;
+}
+
+#move_text {
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+
+#move_bar {
+  position: absolute;
+  top: 60%;
+  left: 5%;
+}

@@ -13,7 +13,3 @@ if (array_key_exists("action", $_GET))
 	}
 }
 ?>
-
-<?PHP
-    $tab = $_GET;
-?>
